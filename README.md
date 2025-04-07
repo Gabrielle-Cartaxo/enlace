@@ -1,7 +1,6 @@
 # 📡 Comunicação via STDIN com Código de Hamming (7,4)
 
-<iframe width="560" height="315" src="https://youtu.be/7y7draDocxY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+VEJA O VÍDEO [AQUI](https://youtu.be/7y7draDocxY)
 ## 📋 Descrição da Atividade - Ponderada de Enlace
 
 A atividade consiste na criação de dois processos distintos — **remetente** e **destinatário** — que se comunicam via `stdin` e `stdout`, simulando a **camada de enlace de dados** de uma rede. A camada de enlace é responsável por garantir a entrega correta e confiável de quadros (frames) entre dois nós conectados diretamente.
